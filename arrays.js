@@ -4,3 +4,7 @@ var chocolateBars = [
 function addElementToBeginningOfArray(){
   chocolateBars = ['cookies', chocolateBars]
 }
+
+function destructivelyAddElementToEndOfArray(){
+  chocolateBars = 
+}
