@@ -6,5 +6,5 @@ function addElementToBeginningOfArray(){
 }
 
 function destructivelyAddElementToEndOfArray(){
-  chocolateBars = 
+  return chocolateBars.unshift("cookies") 
 }
